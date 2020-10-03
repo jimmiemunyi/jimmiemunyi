@@ -7,5 +7,5 @@ I am a developer with deep interest in Deep Learning. Check out some fun stuff I
 
 ## Find me around the web 🌎: 
 - My Twitter <a href="https://www.twitter.com/jimmie_munyi" target="_blank">@jimmie_munyi</a> 🤳🏾 
-- My Tech blog at <a href="https://www.jimmiemunyi.github.io/blog" target="_blank">jimmiemunyi.github.io/blog</a> ✍🏾
+- My Tech blog at <a href="https://jimmiemunyi.github.io/blog/" target="_blank">jimmiemunyi.github.io/blog</a> ✍🏾
 - My Personal blog at <a href="https://jimmiemunyi.wordpress.com/" target="_blank">jimmiemunyi.wordpress.com/</a> where I share some thoughts that cross my mind. 👨🏾‍🚀 
