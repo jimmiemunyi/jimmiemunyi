@@ -2,7 +2,7 @@
 
 <!-- <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica"> -->
 
-I am a developer with deep interest in Deep Learning. Check out some fun stuff I have done here. Enjoy!
+I am a developer. Here is where I share some stuff I have been working on. Enjoy!
 
 
 ## Find me around the web 🌎: 
