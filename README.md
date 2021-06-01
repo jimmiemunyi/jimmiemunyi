@@ -2,8 +2,7 @@
 
 <!-- <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica"> -->
 
-I am a developer. Here is where I share some stuff I have been working on. Enjoy!
-
+I write some code, here and there.
 
 ## Find me around the web 🌎: 
 - My Twitter <a href="https://www.twitter.com/jimmie_munyi" target="_blank">@jimmie_munyi</a> 🤳🏾 
